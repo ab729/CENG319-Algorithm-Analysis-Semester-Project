@@ -7,7 +7,7 @@
 - Khaled Al-sayyad - 210212338
 - Khaled Hussein - 200212314
 
-**Project Delivery Deadline:** January 11, 2024 at 23:59
+**Project Delivery Deadline:** January 15, 2024 at 23:59
 
 ## 1. Introduction
 
